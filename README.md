@@ -1,24 +1,29 @@
 <div align="center">
 
-# ¡Hola! Soy [Tu Nombre/Apodo] 👋
+<img src="https://i.imgur.com/3q1Z3qX.gif" width="100%" alt="Partículas Negras" style="border-radius: 15px;"/>
+
+<br><br>
+
+# [Tu Nombre]
+### ✦ Arquitecto de Software & Pensador Creativo ✦
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF5&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Apasionado+por+el+Clean+Code;Siempre+aprendiendo+cosas+nuevas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Elegancia+en+cada+línea+de+código;Arquitectura+escalable+y+limpia;Transformando+complejidad+en+simplicidad" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  Transformando ideas en código. Especializado en crear soluciones eficientes y escalables.
+  <em>"La simplicidad es la máxima sofisticación."</em>
 </p>
 
 <p align="center">
   <a href="mailto:TU_CORREO@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="https://TU_PORTAFOLIO.com">
-    <img src="https://img.shields.io/badge/Portafolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portafolio-FFFFFF?style=for-the-badge&logo=v&logoColor=black" alt="Portfolio" />
   </a>
 </p>
 
@@ -26,65 +31,68 @@
 
 ---
 
-## 👨‍💻 Sobre Mí
+<div align="center">
+  <h2>⸻ Sobre Mí ⸻</h2>
+</div>
 
-* 🔭 Actualmente trabajando en **[Nombre de tu proyecto o empresa]**
-* 🌱 Actualmente aprendiendo **[Tecnología o framework que estés estudiando, ej. Arquitectura Hexagonal, Rust, Next.js]**
-* 👯 Buscando colaborar en **[Proyectos Open Source / Ideas innovadoras]**
-* 💬 Pregúntame sobre **[Tus áreas de mayor dominio, ej. React, Node.js, Bases de datos]**
-* ⚡ Dato curioso: **[Algo divertido sobre ti, ej. Puedo arreglar bugs antes de mi primer café... a veces]**
+Construyo ecosistemas digitales sólidos con un enfoque en el **Clean Code** y el rendimiento extremo. Me apasiona encontrar la intersección perfecta entre un diseño impecable y una ingeniería robusta.
+
+* ♟️ **Estrategia Actual:** Liderando el desarrollo backend en **[Tu Empresa/Proyecto]**.
+* 📖 **Estudiando:** Profundizando en **[Ej: Patrones de Diseño Avanzados / WebGL / Rust]**.
+* 🤝 **Colaboración:** Abierto a proyectos de código abierto que desafíen el status quo.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+<div align="center">
+  <h2>⸻ Arsenal Técnico ⸻</h2>
+</div>
 
 <div align="center">
   
-  ### Frontend
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  
-  ### Backend
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  ### Bases de Datos y Herramientas
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-FFFFFF?style=for-the-badge&logo=amazon-aws&logoColor=black" />
 
 </div>
 
 ---
 
-## 📊 Mis Estadísticas en GitHub
+<div align="center">
+  <h2>⸻ Métricas ⸻</h2>
+</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&hide_border=false&include_all_commits=true" alt="Estadísticas de GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000&hide_border=false" alt="Lenguajes" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&hide_border=false&border=000000" alt="Racha" />
 </div>
 
 ---
 
-## 🏆 Proyectos Destacados
+<div align="center">
+  <h2>⸻ Obras Destacadas ⸻</h2>
+</div>
 
-| Proyecto | Descripción | Tecnologías |
+| Proyecto | Concepto | Stack |
 | :--- | :--- | :--- |
-| **[Nombre del Proyecto 1](Enlace_al_repo)** | Breve descripción de lo que hace tu proyecto y el problema que resuelve. | `React` `Node.js` |
-| **[Nombre del Proyecto 2](Enlace_al_repo)** | Aplicación web para gestión de tareas con sistema de autenticación. | `Vue` `Firebase` |
-| **[Nombre del Proyecto 3](Enlace_al_repo)** | API RESTful con documentación en Swagger. | `Python` `FastAPI` |
+| **[Proyecto Alfa](Link)** | Arquitectura de microservicios orientada a eventos. | `Go` `Kafka` |
+| **[Proyecto Beta](Link)** | Interfaz de usuario generativa con animaciones fluidas. | `React` `Three.js` |
+| **[Proyecto Gamma](Link)** | Motor de búsqueda de alta disponibilidad. | `ElasticSearch` |
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF5&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=5&width=100%"/>
+  <p><em>Diseñado con precisión. Construido con pasión.</em></p>
 </div>
